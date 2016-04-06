@@ -29,7 +29,14 @@
   Installation is very simple:
   - clone this repository
   - import in Android Studio and run
-
+  
+  Testing
+  --------
+  This app has been tested on 3 devices:
+  - Nexus 4 (Android 4.2.2)
+  - Nexus 5 (Android 5.0.0)
+  - Nexus 7 (Android 5.1.0)
+  
   Contacts
   --------
 
