@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FinalProject_Vitalyi_Rudoy</string>
+    <string name="beatles">Beatles</string>
+    <string name="lana_del_rey">Lana Del Rey</string>
+    <string name="nirvana">Nirvana</string>
+    <string name="ocean_elzu">Океан Ельзи</string>
+    <string name="the_offspring">The Offspring</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_home">Home</string>
+    <string name="action_share">Send e-mail</string>
+    <string name="summer_time">"Summertime Sadness"</string>
+    <string name="summer_time_duration">4:42</string>
+    <string name="summer_time_description">"Summertime Sadness" was released as a digital download on June 22,
+        2012 in Austria, Germany, and Switzerland. Written by Lana Del Rey and her long-time collaborator,
+        Rick Nowels, the record was produced by Nowels and Emile Haynie. "Summertime Sadness" is a trip hop ballad
+        with the lyrics, "Baby you da best…kiss me hard before you go." </string>
+    <string name="smells_like_teen_sprit">"Smells Like Teen Spirit"</string>
+    <string name="smells_like_teen_sprit_duration">4:36</string>
+    <string name="smells_like_teen_spri_description">"Smells Like Teen Spirit" is a song by the American rock band Nirvana. It is the opening track and lead single
+    from the band\'s second album, Nevermind (1991), released on DGC Records. Written by Kurt Cobain, Krist Novoselic,
+    and Dave Grohl and produced by Butch Vig.</string>
+
+    <string name="gonna_go_far">"You\'re Gonna Go Far, Kid"</string>
+    <string name="gonna_go_far_duration">4:36</string>
+    <string name="gonna_go_far_description">"You\'re Gonna Go Far, Kid" is a song by
+        American punk rock band the Offspring. It is the third track on the band\'s eighth studio album Rise and Fall,
+        Rage and Grace (2008) and was released as the second single from the album on September 4, 2008.</string>
+
+    <string name="fight">"I will not give up without a fight"</string>
+    <string name="fight_duration">4:36</string>
+    <string name="fight_description">Okean Elzy is one of the most successful and popular Ukrainian rock bands.
+        It was formed in 1994 in Lviv, Ukraine. The band \'s vocalist and frontman is Svyatoslav Vakarchuk.
+        Okean Elzy is one of the best-loved Ukrainian rock band not only in Ukraine but also in most CIS countries. </string>
+
+    <string name="yesterday">"Yesterday"</string>
+    <string name="yesterday_duration">2:03</string>
+    <string name="yesterday_description">"Yesterday" is a song by English rock band the Beatles written by
+        Paul McCartney (credited to Lennon–McCartney) first released on the album Help! in the United Kingdom in August 1965.
+        "Yesterday", with the B-side "Act Naturally", was released as a single in the United States in September 1965.</string>
+    <string name="summertime_diskr">lana del rey</string>
+
+
+</resources>
